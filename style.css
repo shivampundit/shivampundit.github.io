@@ -387,12 +387,12 @@ section .title::after{
     width: 60%;
 }
 .skills-content .right .js::before{
+    width: 50%;
+}
+.skills-content .right .c::before{
     width: 80%;
 }
-.skills-content .right .php::before{
-    width: 80%;
-}
-.skills-content .right .mysql::before{
+.skills-content .right .cpp::before{
     width: 70%;
 }
 
@@ -590,6 +590,10 @@ footer span a:hover{
     .max-width{
         padding: 0 50px;
     }
+
+    .contact-now{
+        display: none;
+    }
 }
 @media (max-width: 947px){
     .menu-btn{
@@ -776,4 +780,43 @@ footer span a:hover{
 
 .fa-hackerrank{
     color: #23ff43;
+}
+
+.project-sticky {
+    box-sizing: border-box;
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: orangered;
+}
+
+.project-sticky ul{
+    margin: 10px auto;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: yellow;
+    background-color: orangered;
+}
+
+
+.project-sticky a{
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: yellow;
+}
+
+.project-sticky a:hover{
+    text-decoration: underline;
+    color: rgb(0, 195, 255);
+}
+
+.project-sticky a:visited{
+    color: black;
+}
+.project-sticky li{
+    margin-top: 5px;
 }
