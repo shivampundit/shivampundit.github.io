@@ -661,6 +661,9 @@ footer span a:hover{
 }
 
 @media (max-width: 690px) {
+    .project-sticky{
+        dispay: none;
+    }
     .max-width{
         padding: 0 23px;
     }
