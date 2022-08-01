@@ -1,0 +1,12 @@
+[
+  {
+    "name": "HTML",
+    "desc": "Full C++ Notes",
+    "image": "html",
+    "category": "web",
+    "links": {
+      "view": "https://intactcoder.com/C++Tut/Index%20C++%20Tutorial.html",
+      "code": "#"
+    }
+  }
+]
