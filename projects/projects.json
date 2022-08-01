@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Age Calculator",
+    "desc": "Age Calculator is a simple app that calculates your age based on the year you were born.",
+    "image": "Age_Calculator",
+    "category": "web",
+    "links": {
+      "view": "https://shivampundit.github.io/Age_calc/",
+      "code": "https://github.com/shivampundit/Age_calc"
+    }
+  },
+  {
+    "name": "Calculator with Voice Recognition",
+    "desc": "Calculator with Voice Recognition is a simple app that can perform basic arithmetic operations.",
+    "image": "Calculator_with_Voice_Recognition",
+    "category": "web",
+    "links": {
+      "view": "https://shivampundit.github.io/Calculator_with_voice/",
+      "code": "https://github.com/shivampundit/Calculator_with_voice"
+    }
+  },
+  {
+    "name": "Color Flipper",
+    "desc": "Color Flipper is a simple app that can change the background color of the page.",
+    "image": "Color_Flipper",
+    "category": "web",
+    "links": {
+      "view": "https://shivampundit.github.io/Color_Flipper/",
+      "code": "https://github.com/shivampundit/Color_Flipper"
+    }
+  },
+  {
+    "name": "Countdown Timer",
+    "desc": "Countdown Timer is a simple app that can count down from a given time.",
+    "image": "Countdown_Timer",
+    "category": "web",
+    "links": {
+      "view": "https://shivampundit.github.io/Countdown_Timer/",
+      "code": "https://github.com/shivampundit/Countdown_Timer"
+    }
+  },
+  {
+    "name": "CSS Variables with JS",
+    "desc": "CSS Variables with JS is a simple app that can change radius of image, blur effect on image and border color of image.",
+    "image": "CSS_Variables_with_JS",
+    "category": "web",
+    "links": {
+      "view": " https://shivampundit.github.io/Variable-with-Js/",
+      "code": "https://github.com/shivampundit/Variable-with-Js"
+    }
+  },
+  {
+    "name": "Nagarro Internship Project",
+    "desc": "List of Nagarro Project during Internship.",
+    "image": "hero",
+    "category": "web",
+    "links": {
+      "view": "https://shivampundit.github.io/Nagarro-Internship-Assignments/",
+      "code": "https://github.com/shivampundit/Nagarro-Internship-Assignments/"
+  }
+
+}
+]
